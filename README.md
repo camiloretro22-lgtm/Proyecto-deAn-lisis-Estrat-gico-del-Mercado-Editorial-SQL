@@ -1,0 +1,1 @@
+# Proyecto-Identificaci-n-de-Operadores-Ineficaces-en-Telecomunicaciones-SQL
